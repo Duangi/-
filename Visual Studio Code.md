@@ -6,7 +6,7 @@ https://code.visualstudio.com/
 
 ## 安装
 
-![img](https://upload-images.jianshu.io/upload_images/9799874-8740558fd1793cae.png?imageMogr2/auto-orient/strip|imageView2/2/w/582/format/webp)
+![img](D:\Material\Notes\deploysNotes\Visual Studio Code.assets\9799874-8740558fd1793cae.png)
 
 （据说将这几个勾选上会很好用
 
@@ -16,7 +16,7 @@ https://code.visualstudio.com/
 >
 > 在弹出的搜索框中搜索Configure Display Language
 
-![image-20200630233505148](C:\Users\30934\AppData\Roaming\Typora\typora-user-images\image-20200630233505148.png)
+![image-20200630233505148](D:\Material\Notes\deploysNotes\Visual Studio Code.assets\image-20200630233505148.png)
 
 
 
@@ -24,7 +24,7 @@ https://code.visualstudio.com/
 >
 > 在弹出的Extensions界面中下载简体中文
 
-![image-20200630233618417](C:\Users\30934\AppData\Roaming\Typora\typora-user-images\image-20200630233618417.png)
+![image-20200630233618417](D:\Material\Notes\deploysNotes\Visual Studio Code.assets\image-20200630233618417.png)
 
 
 
