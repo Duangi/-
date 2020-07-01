@@ -10,13 +10,11 @@
 
 https://npm.taobao.org/mirrors/git-for-windows/
 
-![Image text]()
-
-![image-20200630234725998](D:\Material\Notes\deploysNotes\Git.assets\image-20200630234725998.png)
+![Image text]([https://raw.githubusercontent.com/Duangi/deploysNotes/master/Git.assets/%E5%AE%89%E8%A3%85-1.png](https://raw.githubusercontent.com/Duangi/deploysNotes/master/Git.assets/安装-1.png))
 
 > 下拉到最底部，可以看到最新版的git-for-windows
 
-![image-20200630234818596](D:\Material\Notes\deploysNotes\Git.assets\image-20200630234818596.png)
+![Image text]([https://raw.githubusercontent.com/Duangi/deploysNotes/master/Git.assets/%E5%AE%89%E8%A3%85-2.png](https://raw.githubusercontent.com/Duangi/deploysNotes/master/Git.assets/安装-2.png))
 
 > 点击下载64bit的，以exe结尾的文件
 
