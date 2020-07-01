@@ -72,13 +72,15 @@ git push -u origin master
 
 1. 将所有图片文件保存到文件夹里，上传到github上
 
-   ![上传-1](D:\Material\Notes\deploysNotes\Git.assets\image-20200701100003913.png)
+   ![上传-1](https://raw.githubusercontent.com/Duangi/deploysNotes/master/Git.assets/image-20200701100003913.png)
 
 2. 点击对应的图片旁边的download按钮，记录下来图片的绝对url
 
-   ![上传-2](D:\Material\Notes\deploysNotes\Git.assets\image-20200701100046955.png)
+   ![上传-2](https://raw.githubusercontent.com/Duangi/deploysNotes/master/Git.assets/image-20200701100046955.png)
 
-   ![上传-3](D:\Material\Notes\deploysNotes\Git.assets\image-20200701100120769.png)
+   
+
+   ![上传-3](https://raw.githubusercontent.com/Duangi/deploysNotes/master/Git.assets/image-20200701100120769.png)
 
 3. 在md文件中修改图片的url为以下格式
 
