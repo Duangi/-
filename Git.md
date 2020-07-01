@@ -10,11 +10,11 @@
 
 https://npm.taobao.org/mirrors/git-for-windows/
 
-![image-20200630234725998](C:\Users\30934\AppData\Roaming\Typora\typora-user-images\image-20200630234725998.png)
+![image-20200630234725998](D:\Material\Notes\deploysNotes\Git.assets\image-20200630234725998.png)
 
 > 下拉到最底部，可以看到最新版的git-for-windows
 
-![image-20200630234818596](C:\Users\30934\AppData\Roaming\Typora\typora-user-images\image-20200630234818596.png)
+![image-20200630234818596](D:\Material\Notes\deploysNotes\Git.assets\image-20200630234818596.png)
 
 > 点击下载64bit的，以exe结尾的文件
 
@@ -26,7 +26,7 @@ https://npm.taobao.org/mirrors/git-for-windows/
 
 首次使用git
 
-![image-20200701000226726](C:\Users\30934\AppData\Roaming\Typora\typora-user-images\image-20200701000226726.png)
+![image-20200701000226726](D:\Material\Notes\deploysNotes\Git.assets\image-20200701000226726.png)
 
 ```
 git config --global user.name "Your Name"
@@ -45,4 +45,24 @@ git remote add origin git@github.com:Duangi/deploysNotes.git
 //origin后面是github中库的名字
 git push -u origin master
 ```
+
+
+
+## 给予push权限
+
+> git bash中输入以下命令配置ssh key
+
+```ssh-keygen -t rsa -C "youremail@example.com"```
+
+>  将邮箱换成你自己的邮箱，一路回车
+
+![image-20200701001553943](D:\Material\Notes\deploysNotes\Git.assets\image-20200701001553943.png)
+
+> git会告诉你将文件保存在了哪里
+
+> 将id_rsa.pub中的内容复制下来
+>
+> 打开github - settings界面 - SSH and GPG keys - new SSH keys
+>
+> title随便命名，将
 
