@@ -10,6 +10,8 @@
 
 https://npm.taobao.org/mirrors/git-for-windows/
 
+![Image text]()
+
 ![image-20200630234725998](D:\Material\Notes\deploysNotes\Git.assets\image-20200630234725998.png)
 
 > 下拉到最底部，可以看到最新版的git-for-windows
@@ -64,5 +66,11 @@ git push -u origin master
 >
 > 打开github - settings界面 - SSH and GPG keys - new SSH keys
 >
-> title随便命名，将
+> title随便命名，再将刚刚复制的内容粘贴到里面，确认
 
+
+
+## 上传带有图片的md文件
+
+1. 将所有图片文件保存到文件夹里，上传到github上
+2. 点击对应的图片旁边的download按钮，记录下来图片的绝对url
