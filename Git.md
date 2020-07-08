@@ -135,3 +135,22 @@ git push -u origin master
 ## 无法修改hosts文件
 
 https://zhidao.baidu.com/question/45783942.html
+
+## push失败
+
+```
+报错提示：
+
+client_loop: send disconnect: Connection reset by peer
+fatal: sha1 file '<stdout>' write error: Broken pipe/s
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+```
+
+​	解决办法：
+当推送大量数据时（初始推送大型存储库，使用非常大的文件进行更改）可能需要 http.postBuffer 在 git 客户端 （而不是服务器）上设置更高的 设置 ；将 Git 缓冲区大小增加到 repo 的最大单个文件大小：
+
+```
+git config --global http.postBuffer 157286400
+```
+
